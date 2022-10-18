@@ -45,7 +45,7 @@ jobs:
           WOWI_API_TOKEN: ${{ secrets.WOWI_API_TOKEN }}
           WAGO_API_TOKEN: ${{ secrets.WAGO_API_TOKEN }}
         with:
-          args: -w 0 -p 0
+          args: -w 0
 
       # another example where we supply additional arguments, this example is specifically to release
       # for the Burning Crusade Classic version of the game and doesn't upload to WoWInterface
