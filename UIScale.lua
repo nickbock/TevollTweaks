@@ -1,0 +1,8 @@
+local f = CreateFrame("Frame", nil, UIParent)
+f:RegisterEvent("PLAYER_ENTERING_WORLD")
+f:SetScript("OnEvent", function(self, event)
+	local height = select(2, GetPhysicalScreenSize())
+	local scale = (768 / height)
+	UIParent:SetScale(scale)	
+	f:UnregisterAllEvents()
+end)

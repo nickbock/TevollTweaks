@@ -1,0 +1,15 @@
+## Interface: 90207
+## Title: |cff0055FFTevoll|r Tweaks
+## Author: Tevoll
+## Version: 1.0.0
+## Notes: Some fonts I often use and automatic scaling based on resolution for pixel perfect.
+## X-Category: Plugins
+## URL: https://www.curseforge.com/wow/addons/elvui-enhanced-again
+## X-Website: https://www.curseforge.com/wow/addons/elvui-enhanced-again
+## DefaultState: Enabled
+## X-Curse-Project-ID: 689732
+## X-Wago-ID: Xb6XzBGp
+
+embeds.xml
+importPaths.lua 
+UIScale.lua
