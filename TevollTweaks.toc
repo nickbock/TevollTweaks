@@ -1,7 +1,7 @@
-## Interface: 100000
+## Interface: 100002
 ## Title: |cff0055FFTevoll|r Tweaks
 ## Author: Tevoll
-## Version: 1.0.2
+## Version: 1.0.3
 ## Notes: Some fonts I often use and automatic scaling based on resolution for pixel perfect.
 ## X-Category: Plugins
 ## URL: https://www.curseforge.com/wow/addons/elvui-enhanced-again
